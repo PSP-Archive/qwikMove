@@ -1,0 +1,7 @@
+qwikMove changelog history:
+
+v2:
+Added support for moving directories.
+
+v1:
+Initial release.
